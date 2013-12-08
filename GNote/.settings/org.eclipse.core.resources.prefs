@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//core/exceptions.py=utf-8
+encoding//core/interfaces.py=utf-8
+encoding//server/serverApp.py=utf-8
+encoding//server/services.py=utf-8
+encoding//server/userManager.py=utf-8
+encoding/users.py=utf-8
